@@ -1,0 +1,6 @@
+{
+  "name": "Flutter Student Profile App",
+  "description": "Interactive Flutter two-screen Student Profile app simulator and Dart source code generator featuring Scaffold, AppBar, Column, CircleAvatar, ElevatedButton, TextField, and Navigator data passing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
